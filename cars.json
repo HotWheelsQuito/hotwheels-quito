@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AE86 Initial D",
+    "price": "$15",
+    "image": "imagenes/ae86.jpg",
+    "sold": false
+  },
+  {
+    "name": "Batimóvil",
+    "price": "$12",
+    "image": "imagenes/batman.jpg",
+    "sold": true
+  }
+]
